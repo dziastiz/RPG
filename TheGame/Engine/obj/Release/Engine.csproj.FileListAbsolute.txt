@@ -1,6 +1,0 @@
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\bin\Release\Engine.dll
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\bin\Release\Engine.pdb
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\obj\Release\Engine.csprojAssemblyReference.cache
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\obj\Release\Engine.dll
-D:\Programs\Visual Studio Projects\TheGame_Portfolio\TheGame\Engine\obj\Release\Engine.pdb
